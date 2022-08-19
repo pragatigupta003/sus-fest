@@ -362,22 +362,22 @@ footer .foot-cont .sec.contact p{
     }
 
     .part-item1{
-        width: 200px;
+        width: fit-content;
         padding-top: 25px;
         font-size: 30px;
         font-weight: bold;
-        padding-left: calc(55%-200px);
+        padding-left: calc(55%-fit-content);
         border-right: solid white 2px;
         display: inline;
     }
     
     .part-item2{
-        width: 150px;
+        width: fit fit-content;
         padding-top: 25px;
         font-size: 30px;
         font-weight: bold;
         padding-left: 6%;
-        padding-right: calc(39%-150px);
+        padding-right: calc(39%-fit-content);
         display: inline;
     }
 
