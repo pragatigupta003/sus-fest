@@ -363,20 +363,20 @@ footer .foot-cont .sec.contact p{
 
     .part-item1{
         width: 200px;
-        margin-top: 25px;
+        padding-top: 25px;
         font-size: 30px;
         font-weight: bold;
         padding-left: calc(55%-200px);
-        padding-right: 3%;
+        border-right: solid white 2px;
         display: inline;
     }
     
     .part-item2{
         width: 150px;
-        margin-top: 25px;
+        padding-top: 25px;
         font-size: 30px;
         font-weight: bold;
-        padding-left: 3%;
+        padding-left: 6%;
         padding-right: calc(39%-150px);
         display: inline;
     }
@@ -384,9 +384,6 @@ footer .foot-cont .sec.contact p{
     .part-text{
         font-size: 15px;
         text-transform: uppercase;
-    }
-    footer{
-        padding: 40px;
     }
 
     footer .foot-cont{
