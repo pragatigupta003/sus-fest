@@ -66,7 +66,7 @@ body{
     display: flex;
     width: 100%;
     flex-direction: row;
-    padding-top: 45vh;
+    padding-top: 40vh;
 }
 
 .item-pack{
